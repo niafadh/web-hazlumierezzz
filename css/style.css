@@ -559,12 +559,12 @@ header #toggler{
 }
 
 header .fa-bars{
-    font-size: 3rem;
+    font-size: 3px;
     color:#333;
-    border-radius: .5rem;
-    padding:.5rem 1.5rem;
+    border-radius: 5px;
+    padding:5px 1.5px;
     cursor: pointer;
-    border:.1rem solid rgba(0,0,0,.3);
+    border:.1px solid rgba(0,0,0,.3);
     display: none;
 }
 
