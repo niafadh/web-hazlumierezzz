@@ -465,7 +465,7 @@ h5{
     color: var(--main-color);
 }
 
-@media only screen and (min-width: 1920px) {
+@media only screen and (min-width: 620px) {
     li a {
     font-size: x-large;
     }
