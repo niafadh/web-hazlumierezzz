@@ -464,3 +464,103 @@ h5{
 .footer .credit span{
     color: var(--main-color);
 }
+
+@media only screen and (min-width: 1920px) {
+    li a {
+    font-size: x-large;
+    }
+
+    h1 {
+    font-size: 175px;
+  }
+  
+    h2 {
+    font-size: 30px; 
+    padding-bottom: 40px;
+    letter-spacing: 15px;   
+    }
+
+    h3 {
+    font-size: 30px; 
+    padding-bottom: 40px;
+    }
+
+    p {
+    font-size: 31px;
+    }
+
+    div.hero-image {
+    height: 850px;
+    }
+
+    div.description {
+    height: 645px;
+    width: 750px;
+    font-size: 45px;
+    padding: auto;
+    text-align: justify;
+    }
+
+    div.image {
+    width: 600px;
+    padding: 20px;
+    }
+    
+    .hero-text-2 h1 {
+    font-size: 125px;
+    margin-top: 125px;
+    }
+    
+    .hero-image-2 {
+    height: 500px;
+    margin-top: 800px;
+    }
+
+    div.description p {
+    font-size: 41px;
+    }
+
+    div.title-1 {
+    padding-top: 90px;
+    padding-bottom: 40px;
+    }
+
+    div.sosmed {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    }
+
+    div.sosmed h1{
+    font-size: 125px;
+    }    
+
+    .column h1 {
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    }
+
+    .column p {
+    font-size: 43px;
+    }
+
+    .column img {
+    width: 350px;
+    border-radius: 100%;
+    border: 10px solid #d53737;
+    }
+
+    .hero-image-3 {
+    margin-top: 650px;
+    height: 250px;
+    }
+
+    .hero-image-3 h3 {
+    padding: auto;
+    }
+
+    div.port {
+    margin-top: 740px;
+    }
+}
