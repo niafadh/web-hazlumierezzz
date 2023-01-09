@@ -545,9 +545,9 @@ li a{
 
 
 header .icons a{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color:#333;
-    margin-left: 1.5rem;
+    margin-left: 1rem;
 }
 
 header .icons a:hover{
@@ -571,7 +571,7 @@ header .fa-bars{
 .home{
     display: flex;
     align-items: center;
-    min-height: 50vh;
+    min-height: 500vh;
     background:url(../img/Brown\ Neutral\ Minimalist\ Fashion\ House\ Facebook\ Cover.jpg) no-repeat;
     background-size: cover;
     background-position: center;
@@ -581,8 +581,8 @@ header .fa-bars{
     max-width: 30rem;
 }
 
-.home .content h3{
-    font-size: 3rem;
+.home .content h2{
+    font-size: 2rem;
     color:#333;
 }
 
