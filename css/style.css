@@ -467,6 +467,17 @@ h5{
 
 @media screen and (min-width: 600px) 
 {
+html{
+    font-size: 22.5%;
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+    overflow-x: hidden;
+}
+
+section{
+    padding:2rem 9%;
+}
+
 home{
     display: flex;
     align-items: center;
