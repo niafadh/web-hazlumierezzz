@@ -571,23 +571,23 @@ header .fa-bars{
 .home{
     display: flex;
     align-items: center;
-    min-height: 100vh;
+    min-height: 10vh;
     background:url(../img/Brown\ Neutral\ Minimalist\ Fashion\ House\ Facebook\ Cover.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .home .content{
-    max-width: 50rem;
+    max-width: 30rem;
 }
 
 .home .content h3{
-    font-size: 6rem;
+    font-size: 3rem;
     color:#333;
 }
 
 .home .content span{
-    font-size: 3.5rem;
+    font-size: 2rem;
     color:brown;
     padding:1rem 0;
     line-height: 1.5;
