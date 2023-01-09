@@ -467,7 +467,8 @@ h5{
 
 @media screen and (min-width: 600px) 
 {
-    h1 {
+
+home .content{
     font-size: 36px;
     line-height: 50px;
   }
