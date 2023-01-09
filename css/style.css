@@ -467,12 +467,12 @@ h5{
 
 @media only screen and (min-width: 620px) {
  section{
-    padding:2rem 9%;
+    padding:2px 9%;
 }
 
 .heading{
     text-align: center;
-    font-size: 150px;
+    font-size: 30px;
     color:#333;
     padding:10px;
     margin:10px;
@@ -491,7 +491,7 @@ h5{
     color:#fff;
     padding:4px 3px
     cursor: pointer;
-    font-size: 30px
+    font-size: 10px
 }
 
 
@@ -499,7 +499,7 @@ header{
     position: fixed;
     top:0; left:0; right:0;
     background:#fff;
-    padding:2rem 9%;
+    padding:2px 9%;
     display: flex;
     align-items: center;
     justify-content: space-between;
