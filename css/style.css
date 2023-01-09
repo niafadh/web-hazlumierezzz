@@ -470,10 +470,12 @@ h5{
 home{
     display: flex;
     align-items: center;
-    min-height: 100vw;
+    min-height: 1.5vw;
     background:url(../img/Brown\ Neutral\ Minimalist\ Fashion\ House\ Facebook\ Cover.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
-
+home .content h3{
+    font-size: 36px;
+    line-height: 50px;
 }
