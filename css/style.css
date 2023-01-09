@@ -465,13 +465,11 @@ h5{
     color: var(--main-color);
 }
 
-@media only screen and (min-width: 620px) {
-  li a {
-    font-size: x-large;
-    }
-
+@media screen and (min-width: 600px) 
+{
     h1 {
-    font-size: 175px;
+    font-size: 36px;
+    line-height: 50px;
   }
   
 }
