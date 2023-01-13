@@ -468,7 +468,7 @@ h5{
 @media screen and (min-width: 600px) 
 {
 html{
-    font-size: 22.5%;
+    font-size: 72.5%;
     scroll-behavior: smooth;
     scroll-padding-top: 2rem;
     overflow-x: hidden;
@@ -481,7 +481,7 @@ section{
 home{
     display: flex;
     align-items: center;
-    min-height: 1.5vw;
+    min-height: 115vw;
     background:url(../img/Brown\ Neutral\ Minimalist\ Fashion\ House\ Facebook\ Cover.jpg) no-repeat;
     background-size: cover;
     background-position: center;
